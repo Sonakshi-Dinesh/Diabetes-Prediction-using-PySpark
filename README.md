@@ -10,6 +10,8 @@ INTRODUCTION:
 Diabetes is a chronic metabolic disorder characterized by high blood sugar levels (hyperglycemia) due to the body's inability to produce or effectively use insulin. Insulin is a hormone produced by the pancreas that regulates glucose metabolism. There are three main types of diabetes:
 
 Type 1 Diabetes: In this autoimmune condition, the immune system mistakenly attacks and destroys the insulin-producing cells in the pancreas. People with type 1 diabetes require lifelong insulin injections for survival.
+
 Type 2 Diabetes: This is the most common form of diabetes, accounting for the majority of cases. It occurs when the body becomes resistant to the effects of insulin or doesn't produce enough insulin to maintain normal blood sugar levels. Type 2 diabetes is strongly linked to lifestyle factors such as obesity, sedentary behavior, and unhealthy diet.
+
 Gestational Diabetes: This type of diabetes occurs during pregnancy when hormonal changes can lead to insulin resistance. It usually resolves after childbirth, but women who develop gestational diabetes have an increased risk of developing type 2 diabetes later in life.
 The prediction of diabetes involves the utilization of machine learning algorithms, statistical methods, and data analysis techniques. These models utilize large datasets comprising demographic information, clinical measurements, laboratory tests, and other pertinent variables to identify patterns and risk factors associated with the development of diabetes. By analyzing these patterns, algorithms can generate predictive models that estimate the probability of an individual developing diabetes within a specified time frame.
